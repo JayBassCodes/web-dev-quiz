@@ -1,0 +1,58 @@
+body {
+    background: #004C54;
+}
+
+#scoreboard {
+    text-decoration: none;
+    color: #A5ACAF;
+    border: solid black;
+    background: #000;
+}
+
+#hero {
+    background: #A5ACAF;
+    padding: 5px;
+    margin: 5px;
+}
+
+#startTimer {
+    background: #004C54;
+    color: azure;
+}
+
+#content {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+button {
+    box-shadow: #000 2px 2px;
+}
+
+#content ul li {
+    padding: 2px;
+    margin: 7px;
+    background: #004C54;
+    list-style: none;
+    color: #A5ACAF;
+}
+
+#scores {
+    background: #A5ACAF;
+    padding: 10px;
+}
+
+#clear {
+    background: #004C54;
+    color: azure;
+}
+
+#goBack {
+    background: #004C54;
+    color: azure;
+}
+
+#Submit {
+    background: #004C54;
+    color: azure;
+}
